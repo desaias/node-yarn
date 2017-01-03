@@ -2,5 +2,5 @@
 
 Removed NPM and installing yarn the recommended way *(not via npm install -g yarn)*
 
-
+Image size 41.9 MB
 
